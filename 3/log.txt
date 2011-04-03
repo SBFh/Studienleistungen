@@ -1,0 +1,3 @@
+Fläche eines Kreises mit Radius 4: 50.265482
+Fläche eines Rechtecks mit Breite 10 und Höhe 4: 40.000000
+Ungefähre Flache der Kurve x² von x = 0 bis x = 100: 333333.333333
