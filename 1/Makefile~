@@ -1,9 +1,0 @@
-#Studienleistung 1
-
-CC = gcc
-
-main:
-	$(CC) -o $@ studienleistung1.c
-
-clean:
-	rm main*
